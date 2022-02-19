@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    height: 100vh;
+    padding: 30px;
+    background-color: aqua;
+}
+section:nth-child(even){
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+}
