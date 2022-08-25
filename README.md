@@ -1,7 +1,7 @@
 # zems_animation
 Zems animation is a parallax effect library using animate.style It's help you to apply parallax effect on scroll. And the effect show every time you scroll your documents. 
 
-<h3>How to use?</h3>
+<h3>How to use zems animation?</h3>
 <ol>
     <li>Link <a href="https://animate.style/" target="_blank">animate.style</a> css in your document </li>
     <li><a href="https://animate.style/" target="_blank">animate.style</a> cdn example: &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" /&gt;</li>
