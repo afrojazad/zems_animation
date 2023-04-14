@@ -29,9 +29,9 @@ const handleScrollAnimation = () => {
   isInView.forEach((el) => {
     zems = el.getAttribute("data-zems")
     if (elementInView(el, 1.25)) {      
-      if(zems != null){
+      if(zems !== ''){
         displayScrollElement(el, zems);
-      }
+      } 
     } else if (elementOutofView(el)) {
       if(zems != null){
         hideScrollElement(el, zems);
